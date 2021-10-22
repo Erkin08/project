@@ -1,0 +1,8 @@
+.divforbtn{
+    display: flex;
+    justify-content: center;
+}
+.inp{
+    display: flex;
+    justify-content: center;
+}
